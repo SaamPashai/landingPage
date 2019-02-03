@@ -10,9 +10,12 @@
   font-weight: 100;
 }
 
-#titleBlock {
+#titleBlock, #missionBlock, #aboutUsBlock {
   height: 100vh;
   width: 100vw;
+}
+
+#titleBlock {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,10 +23,8 @@
 
 #missionBlock {
   text-align: center;
-  height: 100vh;
-  width: 100vw;
   padding-top: 50px;
-  background-color: #7676FF;
+  background-color: #4D85AC;
   color: whitesmoke;
 }
 
@@ -34,4 +35,14 @@
   margin-top: 50px;
   font-size: 1.5em;
   font-weight: 200;
+}
+
+#aboutUsBlock {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
 }
