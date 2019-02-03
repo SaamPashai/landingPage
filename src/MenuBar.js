@@ -40,7 +40,7 @@ class MenuBar extends Component {
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="">
+                                <NavLink href="#missionBlock">
                                     Mission
                                 </NavLink>
                             </NavItem>
