@@ -38,6 +38,7 @@
 }
 
 #aboutUsBlock {
+  height: inherit;
   text-align: center;
   padding-top: 50px;
 }
@@ -45,4 +46,40 @@
 .cardContainer {
   display: flex;
   justify-content: center;
+}
+
+#footerBlock {
+  padding-top: 10px;
+  display: block;
+  height: 17vh;
+  width: 100vw;
+  background-color: #4D85AC;
+  color: whitesmoke;
+}
+
+#footerBlock h1 {
+  text-align: center;
+}
+
+#footerBlock p {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+#socialMediaContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#socialMediaContainer i {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#socialMediaContainer a {
+  color: white;
+}
+
+#socialMediaContainer a:hover {
+  color: black;
 }
