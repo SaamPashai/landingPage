@@ -16,9 +16,12 @@
 }
 
 #titleBlock {
+  background: url('./img/marble.jpg');
   display: flex;
   align-items: center;
   justify-content: center;
+  background-size: 100% 100%;
+
 }
 
 #missionBlock {
@@ -45,13 +48,11 @@
 
 .cardContainer {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 #footerBlock {
   padding-top: 10px;
-  display: block;
-  height: 17vh;
   width: 100vw;
   background-color: #4D85AC;
   color: whitesmoke;
@@ -62,8 +63,8 @@
 }
 
 #footerBlock p {
-  margin-left: 20vw;
-  margin-right: 20vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 #socialMediaContainer {
