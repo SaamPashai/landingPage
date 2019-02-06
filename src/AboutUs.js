@@ -6,6 +6,10 @@ import { Card,
          CardTitle,
          CardSubtitle } from 'reactstrap';
 
+import benny from './img/benny.jpg';
+import chris from './img/chris.jpg';
+import eddy from './img/eddy.jpg';
+
 class AboutUs extends Component {
     render() {
         return(
@@ -15,9 +19,9 @@ class AboutUs extends Component {
 
                 <h2 className="display-4">Team Members</h2>
                 <div className="cardContainer">
-                    <TeamCards name="Benny Nguyen" job="Back-End Developer" imgSrc="/img/benny.jpg" />
-                    <TeamCards name="Chris Gerken" job="IT, Communications" imgSrc="/img/chris.jpg" />
-                    <TeamCards name="Eddy Huang" job="UX &amp; UI Designer" imgSrc="/img/eddy.jpg" />
+                    <TeamCards name="Benny Nguyen" job="Back-End Developer" imgSrc={benny} />
+                    <TeamCards name="Chris Gerken" job="IT, Communications" imgSrc={chris} />
+                    <TeamCards name="Eddy Huang" job="UX &amp; UI Designer" imgSrc={eddy} />
                     <TeamCards name="Saam Pashai" job="Full-Stack Developer" imgSrc="https://via.placeholder.com/150" />
                 </div>
                 <br />
