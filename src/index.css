@@ -41,17 +41,22 @@
 }
 
 #aboutUsBlock {
-  height: inherit;
+  height: 100vh;
   text-align: center;
   padding-top: 50px;
 }
 
 .cardContainer {
+  margin-left: 20vw;
+  margin-right: 20vw;
   margin-top: 20px;
   display: flex;
-  justify-content: space-around;
-  flex-grow: 1;
-  flex-basis: 0;
+}
+
+.cardContainer div {
+  flex: 1;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #footerBlock {

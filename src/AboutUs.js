@@ -28,7 +28,7 @@ class AboutUs extends Component {
 
                 <h2 className="display-4">Sponsor</h2>
                     <div className="cardContainer">
-                        <TeamCards name="Seattle Public School District" job="Sponsor" imgSrc="https://via.placeholder.com/150" />
+                        <TeamCards name="Seattle Public School District" job="Sponsor" imgSrc="" />
                     </div>
                 <br />
             </div>
