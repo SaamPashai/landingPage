@@ -29,7 +29,7 @@ class MenuBar extends Component {
             <div>
                 <Navbar color="dark" dark expand="md">
                     <NavbarBrand href="/">
-                    <i class="fa fa-users fa-2x" aria-hidden="true"></i>
+                    <i className="fa fa-users fa-2x" aria-hidden="true"></i>
                     </NavbarBrand>
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>

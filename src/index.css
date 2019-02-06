@@ -47,8 +47,11 @@
 }
 
 .cardContainer {
+  margin-top: 20px;
   display: flex;
   justify-content: space-around;
+  flex-grow: 1;
+  flex-basis: 0;
 }
 
 #footerBlock {
