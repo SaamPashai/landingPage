@@ -92,3 +92,13 @@
 #socialMediaContainer a:hover {
   color: black;
 }
+
+.nav-item a {
+  margin-left: 20px;
+  color: whitesmoke;
+}
+
+.nav-item a:hover {
+  color: #4D85AC;
+  text-decoration: none;
+}

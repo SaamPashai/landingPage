@@ -5,8 +5,9 @@ import {
     NavbarToggler,
     NavbarBrand,
     Nav,
-    NavItem,
-    NavLink } from 'reactstrap';
+    NavItem } from 'reactstrap';
+
+import { NavHashLink as NavLink } from 'react-router-hash-link';
 
 class MenuBar extends Component {
     constructor(props) {
@@ -35,13 +36,18 @@ class MenuBar extends Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto" navbar>
                             <NavItem>
-                                <NavLink href="#titleBlock">
+                                <NavLink smooth to="/#titleBlock">
                                     Home
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#missionBlock">
+                                <NavLink smooth to="/#missionBlock">
                                     Mission
+                                </NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink smooth to="/#aboutUsBlock">
+                                    About Us
                                 </NavLink>
                             </NavItem>
                         </Nav>
