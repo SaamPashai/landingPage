@@ -43,16 +43,14 @@ class TeamCards extends Component {
         let description = this.props.description;
         let imgSrc = this.props.imgSrc;
         return(
-            <div>
-                <Card>
-                    <CardImg top width="100%" src={imgSrc}/>
-                    <CardBody>
-                        <CardTitle>{name}</CardTitle>
-                        <CardSubtitle>{job}</CardSubtitle>
-                        <CardText>{description}</CardText>
-                    </CardBody>
-                </Card>
-            </div>
+            <Card>
+                <CardImg top width="100%" src={imgSrc}/>
+                <CardBody>
+                    <CardTitle>{name}</CardTitle>
+                    <CardSubtitle>{job}</CardSubtitle>
+                    <CardText>{description}</CardText>
+                </CardBody>
+            </Card>
         );
     }
 }
