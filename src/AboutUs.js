@@ -20,7 +20,7 @@ class AboutUs extends Component {
                 <h2 className="display-4">Team Members</h2>
                 <div className="cardContainer">
                     <TeamCards name="Benny Nguyen" job="Back-End Developer" imgSrc={benny} />
-                    <TeamCards name="Chris Gerken" job="IT, Communications" imgSrc={chris} />
+                    <TeamCards name="Chris Gerken" job="Operations and Communications" imgSrc={chris} />
                     <TeamCards name="Eddy Huang" job="UX &amp; UI Designer" imgSrc={eddy} />
                     <TeamCards name="Saam Pashai" job="Full-Stack Developer" imgSrc="https://via.placeholder.com/150" />
                 </div>
@@ -46,8 +46,8 @@ class TeamCards extends Component {
             <Card>
                 <CardImg top width="100%" src={imgSrc}/>
                 <CardBody>
-                    <CardTitle>{name}</CardTitle>
-                    <CardSubtitle>{job}</CardSubtitle>
+                    <CardText>{name}</CardText>
+                    <CardText id="lined">{job}</CardText>
                     <CardText>{description}</CardText>
                 </CardBody>
             </Card>

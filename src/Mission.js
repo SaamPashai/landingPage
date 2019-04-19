@@ -12,7 +12,7 @@ class Mission extends Component {
                         in the integration of tech for this youth. However, the current toolset used
                         for project management, ticket retrieval, and communication is archaic and severely
                         limited. Therefore, we aim to improve upon this system by creating a project management
-                        dashboard catering to ITs in SPS that can filter data by each school they visit
+                        dashboard catering to ITs in SPS that can filter data by each school they visit.
                     </p>
                 </div>
             </div>

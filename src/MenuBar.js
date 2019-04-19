@@ -46,6 +46,11 @@ class MenuBar extends Component {
                                 </NavLink>
                             </NavItem>
                             <NavItem>
+                                <NavLink smooth to="/#impactBlock">
+                                    Impact
+                                </NavLink>
+                            </NavItem>
+                            <NavItem>
                                 <NavLink smooth to="/#aboutUsBlock">
                                     About Us
                                 </NavLink>

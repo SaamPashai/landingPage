@@ -6,6 +6,7 @@ import TitleBlock from './TitleBlock.js';
 import Mission from './Mission.js';
 import AboutUs from './AboutUs.js';
 import Footer from './Footer.js';
+import Impact from './Impact.js';
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
         <TitleBlock />
         <Mission />
         <AboutUs />
+        <Impact />
         <Footer />
       </div>
     );

@@ -29,6 +29,7 @@
   padding-top: 50px;
   background-color: #4D85AC;
   color: whitesmoke;
+  height: 70vh;
 }
 
 #missionBlock p {
@@ -40,8 +41,27 @@
   font-weight: 200;
 }
 
+
+#impactBlock {
+  text-align: center;
+  padding-top: 50px;
+  background-color: #ffae19;
+  color: whitesmoke;
+  height: 70vh;
+}
+
+#impactBlock p {
+  text-align: left;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 50px;
+  font-size: 1.5em;
+  font-weight: 200;
+}
+
+
 #aboutUsBlock {
-  height: 100vh;
+  height: 120vh;
   text-align: center;
   padding-top: 50px;
 }
@@ -55,8 +75,8 @@
 
 .cardContainer div {
   flex: 1;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #footerBlock {
@@ -64,6 +84,8 @@
   width: 100vw;
   background-color: #4D85AC;
   color: whitesmoke;
+  height: 30vh;
+  padding-top: 5vh;
 }
 
 #footerBlock h1 {
@@ -101,4 +123,33 @@
 .nav-item a:hover {
   color: #4D85AC;
   text-decoration: none;
+}
+
+#lined{
+  word-break: none;
+}
+
+#center{
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 30px;
+  float: right;
+  margin-right: 40px;
+}
+
+h3{
+  margin-left: 30px;
+}
+
+.flex-container{
+  display: flex;
+}
+
+#product-description{
+  margin-right: 10px;
+  margin-top: 200px;
+}
+
+#round{
+  border-radius: 25px; 
 }
