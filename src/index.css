@@ -1,3 +1,4 @@
+
 .navbar, .navbar-default {
   background-color: white;
 }
@@ -129,6 +130,8 @@
   word-break: none;
 }
 
+
+
 #center{
   text-align: center;
   margin-top: 45px;
@@ -146,8 +149,10 @@ h3{
 }
 
 #product-description{
-  margin-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-top: 200px;
+  width: 300px;
 }
 
 #round{

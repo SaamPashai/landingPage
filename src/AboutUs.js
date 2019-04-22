@@ -9,6 +9,7 @@ import { Card,
 import benny from './img/benny.jpg';
 import chris from './img/chris.jpg';
 import eddy from './img/eddy.jpg';
+import saam from './img/saam.jpg';
 
 class AboutUs extends Component {
     render() {
@@ -20,9 +21,9 @@ class AboutUs extends Component {
                 <h2 className="display-4">Team Members</h2>
                 <div className="cardContainer">
                     <TeamCards name="Benny Nguyen" job="Back-End Developer" imgSrc={benny} />
-                    <TeamCards name="Chris Gerken" job="Operations and Communications" imgSrc={chris} />
+                    <TeamCards name="Chris Gerken" job="Product Manager" imgSrc={chris} />
                     <TeamCards name="Eddy Huang" job="UX &amp; UI Designer" imgSrc={eddy} />
-                    <TeamCards name="Saam Pashai" job="Full-Stack Developer" imgSrc="https://via.placeholder.com/150" />
+                    <TeamCards name="Saam Pashai" job="Full-Stack Developer" imgSrc={saam} />
                 </div>
                 <br />
 
