@@ -8,6 +8,7 @@ import {
     NavItem } from 'reactstrap';
 
 import { NavHashLink as NavLink } from 'react-router-hash-link';
+import logo from './img/spsLogo.png';
 
 class MenuBar extends Component {
     constructor(props) {
@@ -30,7 +31,8 @@ class MenuBar extends Component {
             <div>
                 <Navbar color="dark" dark expand="md">
                     <NavbarBrand href="/">
-                    <i className="fa fa-users fa-2x" aria-hidden="true"></i>
+                    <img src={logo} alt="sps logo" height="42" width="42" ></img>
+                    {/* <i className="fa fa-users fa-2x" aria-hidden="true"></i> */}
                     </NavbarBrand>
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>
