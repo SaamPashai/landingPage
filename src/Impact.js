@@ -9,7 +9,9 @@ class Impact extends Component {
                     <p>
                         Our task management system will effectivly replace the I.T. teams old platform. With keeping
                         FERPA/HIPPA compliance in mind, our project will allow the district to effciently keep track
-                        of the many tasks that come up each day. 
+                        of the many tasks that come up each day. By doing so, we will improve the productivity of the
+                        I.T. workers in the district, allowing for a better education experience for the children 
+                        attending Seattle Public Schools. 
                     </p>
                 </div>
             </div>
