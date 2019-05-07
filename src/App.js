@@ -15,8 +15,8 @@ class App extends Component {
         <MenuBar />
         <TitleBlock />
         <Mission />
-        <AboutUs />
         <Impact />
+        <AboutUs />
         <Footer />
       </div>
     );
