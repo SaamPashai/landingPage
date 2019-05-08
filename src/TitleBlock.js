@@ -12,7 +12,7 @@ class TitleBlock extends Component {
                         <div className = "flex-container"id="center">
                             <div>
                                 <p id="product-description">
-                                    Efficently keep track of tasks that arise throughout the workday.
+                                    A tool to efficently keep track of those trivial tasks that arise throughout the workday.
                                 </p >
                             </div>
                             <div>
