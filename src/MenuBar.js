@@ -29,7 +29,7 @@ class MenuBar extends Component {
     render() {
         return (
             <div>
-                <Navbar color="dark" dark expand="md">
+                <Navbar className="nav" dark expand="md">
                     <NavbarBrand href="/">
                     <img src={logo} alt="sps logo" height="42" width="42" ></img>
                     {/* <i className="fa fa-users fa-2x" aria-hidden="true"></i> */}

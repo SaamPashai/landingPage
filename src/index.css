@@ -3,6 +3,10 @@
   background-color: white;
 }
 
+.nav{
+  background-color: gray;
+}
+
 #titleBlock h1 {
   text-align: center;
 }
