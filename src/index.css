@@ -8,12 +8,22 @@
 }
 
 #titleBlock h1 {
+ 
   text-align: center;
 }
+
+
+#subHead{
+  margin-left: 2px;
+}
+
 
 #titleBlock h3 {
   font-weight: 100;
 }
+
+
+
 
 #titleBlock, #missionBlock, #aboutUsBlock {
   height: 100vh;
@@ -153,16 +163,38 @@ h3{
   margin-left: 30px;
 }
 
+.con{
+  margin: .5em;
+}
+
 .flex-container{
   display: flex;
 }
 
+.comp{
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
 #product-description{
   /* text-align: right; */
-  margin-left: 3rem;
-  margin-right: 1rem;
-  margin-top: 200px;
+  margin-left: 12rem;
+  margin-right: .5rem;
+  margin-top: 2rem;
   width: 300px;
+}
+
+#product-description2{
+  /* text-align: right; */
+  margin-left: 4rem;
+  /* /* margin-right: .5rem; */
+
+  width: 300px;
+}
+
+
+#phone{
+  margin-top: 100px;
 }
 
 #round{
