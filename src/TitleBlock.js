@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import product from './img/product.png';
+import product from './img/active.png';
 
 class TitleBlock extends Component {
     render() {
@@ -16,7 +16,7 @@ class TitleBlock extends Component {
                                 </p >
                             </div>
                             <div>
-                                <img src={product} alt="product" height="400" width="900" id="round"></img>
+                                <img src={product} alt="product" height="600" width="700" id="round"></img>
                             </div>
                         </div>
                     </header>
