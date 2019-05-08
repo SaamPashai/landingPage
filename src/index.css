@@ -31,6 +31,9 @@
   width: 100vw;
 }
 
+
+
+
 #titleBlock {
   background: url('./img/marble.jpg');
   display: flex;
@@ -77,7 +80,7 @@
 
 
 #aboutUsBlock {
-  height: 120vh;
+  height: 150vh;
   text-align: center;
   padding-top: 50px;
   margin-bottom: 10em;
