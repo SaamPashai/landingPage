@@ -23,7 +23,7 @@ class AboutUs extends Component {
                 <div className="cardContainer">
                     <TeamCards name="Benny Nguyen" job="Back-End Developer" imgSrc={benny} />
                     <TeamCards name="Chris Gerken" job="PM and UX Researcher" imgSrc={chris} />
-                    <TeamCards name="Eddy Huang" job="UI Designer" imgSrc={eddy} />
+                    <TeamCards name="Eddy Huang" job="Designer" imgSrc={eddy} />
                     <TeamCards name="Saam Pashai" job="Full-Stack Developer" imgSrc={saam} />
                 </div>
                 <br />
