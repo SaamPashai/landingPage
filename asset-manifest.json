@@ -1,7 +1,7 @@
 {
-  "main.css": "/landingPage/static/css/main.6c53125c.chunk.css",
-  "main.js": "/landingPage/static/js/main.a4d5ca1d.chunk.js",
-  "main.js.map": "/landingPage/static/js/main.a4d5ca1d.chunk.js.map",
+  "main.css": "/landingPage/static/css/main.d6087585.chunk.css",
+  "main.js": "/landingPage/static/js/main.eae6c50c.chunk.js",
+  "main.js.map": "/landingPage/static/js/main.eae6c50c.chunk.js.map",
   "static/css/1.7ca27e56.chunk.css": "/landingPage/static/css/1.7ca27e56.chunk.css",
   "static/js/1.d2288c2d.chunk.js": "/landingPage/static/js/1.d2288c2d.chunk.js",
   "static/js/1.d2288c2d.chunk.js.map": "/landingPage/static/js/1.d2288c2d.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/eddy.jpg": "/landingPage/static/media/eddy.ec082250.jpg",
   "static/media/saam.jpg": "/landingPage/static/media/saam.a4f87fa7.jpg",
   "static/media/spslogo2.png": "/landingPage/static/media/spslogo2.c9a121e0.png",
+  "static/css/main.d6087585.chunk.css.map": "/landingPage/static/css/main.d6087585.chunk.css.map",
   "static/css/1.7ca27e56.chunk.css.map": "/landingPage/static/css/1.7ca27e56.chunk.css.map",
-  "static/css/main.6c53125c.chunk.css.map": "/landingPage/static/css/main.6c53125c.chunk.css.map",
   "index.html": "/landingPage/index.html",
-  "precache-manifest.38a119b6b24e51ded9567c63215cd9b3.js": "/landingPage/precache-manifest.38a119b6b24e51ded9567c63215cd9b3.js",
+  "precache-manifest.6103992ac0ebdc6d4449330e112cd389.js": "/landingPage/precache-manifest.6103992ac0ebdc6d4449330e112cd389.js",
   "service-worker.js": "/landingPage/service-worker.js"
 }

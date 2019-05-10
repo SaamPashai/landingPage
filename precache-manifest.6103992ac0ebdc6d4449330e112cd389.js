@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a4d5ca1dabb19c688d9b",
-    "url": "/landingPage/static/css/main.6c53125c.chunk.css"
+    "revision": "eae6c50c8f918ee659ef",
+    "url": "/landingPage/static/css/main.d6087585.chunk.css"
   },
   {
-    "revision": "a4d5ca1dabb19c688d9b",
-    "url": "/landingPage/static/js/main.a4d5ca1d.chunk.js"
+    "revision": "eae6c50c8f918ee659ef",
+    "url": "/landingPage/static/js/main.eae6c50c.chunk.js"
   },
   {
     "revision": "d2288c2d67834dd98c1f",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/landingPage/static/media/spslogo2.c9a121e0.png"
   },
   {
-    "revision": "7e91e71a1037bb8c7633e21abcc564e2",
+    "revision": "4fdcc6a49385d8b69e68a840d2596df6",
     "url": "/landingPage/index.html"
   }
 ];
