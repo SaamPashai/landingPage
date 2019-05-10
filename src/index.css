@@ -14,7 +14,7 @@
 
 
 #subHead{
-  margin-left: 2px;
+  margin-left: 50px;
 }
 
 
@@ -48,7 +48,7 @@
   padding-top: 50px;
   background-color: #4D85AC;
   color: whitesmoke;
-  height: 70vh;
+  height: 80vh;
 }
 
 #missionBlock p {
@@ -66,7 +66,7 @@
   padding-top: 50px;
   background-color: #ffae19;
   color: whitesmoke;
-  height: 70vh;
+  height: 80vh;
 }
 
 #impactBlock p {
@@ -198,7 +198,7 @@ h3{
 
 
 #phone{
-  margin-top: 100px;
+  margin-top: 30px;
 }
 
 #round{

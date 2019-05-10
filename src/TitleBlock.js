@@ -18,7 +18,7 @@ class TitleBlock extends Component {
                             </div> */}
                             <div id="phone">
 
-                                <img src={phone} alt="phone" height="400" width="425" id="round"></img>
+                                <img src={phone} alt="phone" height="420" width="425" id="round"></img>
                                 <p id="product-description2">
                                     Mobile platform supported where information displayed will follow the same encrypted back-end.
                                 </p >

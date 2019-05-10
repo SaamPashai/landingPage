@@ -7,12 +7,12 @@ class Mission extends Component {
                 <div>
                     <h1 className="display-2">Our Mission</h1>
                     <p>
-                        In this modern era, technology is being introduced earlier and earlier to
-                        students. Thus, Seattle Public School (SPS) District's IT team plays a large role
-                        in the integration of tech for this youth. However, the current toolset used
-                        for project management, ticket retrieval, and communication is archaic and severely
-                        limited. Therefore, we aim to improve upon this system by creating a project management
-                        dashboard catering to ITs in SPS that can filter data by each school they visit.
+                        Technology is being introduced to students and clasrooms earlier at every generation, and the Seattle 
+                        Public Schools District's IT department play a critical role in making this happen. However, we have observed 
+                        the misuse of current tools within the IT department that create for the inefficient distribution of important 
+                        resources which ultimately pitfalls district performance.  Because of this, our goal is to create a product that 
+                        the department can use that will allow them to better understand the data that influences those important resources, 
+                        thus equipping the district with a tool to inherently make smarter business intelligence choices.
                     </p>
                 </div>
             </div>
